@@ -1,1 +1,1 @@
-# comp307-groupPorject
+# Website displaying beautiful dishes along with their ingredients
